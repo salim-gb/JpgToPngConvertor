@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JpgToPngConvertor</string>
+    <string name="convert">Convert</string>
 </resources>
